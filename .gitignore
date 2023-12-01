@@ -1,0 +1,4 @@
+node_modules
+public
+tests/files
+coverage
